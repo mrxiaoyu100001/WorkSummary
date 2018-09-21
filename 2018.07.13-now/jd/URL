@@ -1,0 +1,46 @@
+
+
+目前现有URI
+
+//拜访管理 -> 排行榜   @"/visit/rank"
+
+//拜访管理 -> 计划		 "/visit/plan"
+
+//新店铺 原生		 "/assignshop/list"
+
+//我的店铺 原生		 "/myStores"
+
+//无效店铺 原生		 "/invalidShop"
+
+//清退店铺 原生		 "/backward/list"
+
+//无人货架 原生		 "/goodsShelves/list"
+
+//店铺GPS审核 原生		 "/stores/gis/audit"
+
+
+通过Type补充
+
+//签到				 "clock"
+
+//我的店铺			 "bindedShops"
+
+//新店铺				 "assignedShops"
+
+//优势商品			 "edgeItems"
+
+//工作轨迹			 "trace"
+
+//销售数据			 "marketingDatas"
+
+//开店秘籍			 "tips"
+
+//排行榜				 "rankings"
+
+//热点				 "hotspot"
+
+//轨迹				 "selfTrace"
+
+//未注册店铺			 "potential_shop"
+
+//增票				 "shop_license"
